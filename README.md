@@ -1,5 +1,5 @@
 ![](./ReadMeImages/homepage.jpg)
-# Orem Gitonga's Portfolio website [React, Custom CSS]
+# Orem's Portfolio website [React Project]
 
 **Live Preview: [Open Link][preview]**
 
