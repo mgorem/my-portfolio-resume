@@ -1,4 +1,4 @@
-![](./ReadMeImages/ReadMeBanner.png)
+![](./ReadMeImages/homepage.jpg)
 # Orem Gitonga's Portfolio website [React, Custom CSS]
 
 **Live Preview: [Open Link][preview]**
