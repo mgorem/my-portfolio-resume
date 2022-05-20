@@ -1,6 +1,4 @@
-<div>
-  <img src="./ReadMeImages/homepage.jpg" alt="Orem's Portfolio Website Homepage"/>
-</div>
+![](./ReadMeImages/homepage.jpg)
 # Orem's Portfolio website [React Project]
 
 **Live Preview: [Open Link][preview]**
