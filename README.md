@@ -1,4 +1,7 @@
 ![](./ReadMeImages/homepage.jpg)
+![](./ReadMeImages/homepagenav.jpg)
+![](./ReadMeImages/Projectspage.jpg)
+![](./ReadMeImages/Contactpage.jpg)
 # Orem's Portfolio website [React Project]
 
 **Live Preview: [Open Link][preview]**
