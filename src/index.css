@@ -60,7 +60,7 @@ a {
 }
 
 .header.open {
-  height: 25%;
+  height: 100%;
   background-color: var(--background-overlay);
 }
 
@@ -204,11 +204,18 @@ transform: translate(-50%, -50%);
   .projects .cards {
     grid-template-columns: repeat(2, 1fr);
   }
+  .header.open {
+    height: 37%;
+    background-color: var(--background-overlay);
+  }
   .header nav ul {
     display: flex;
     flex-direction: column;
     margin-top: 100px;
     min-height: 70%;
+  }
+  .header nav ul li {
+    margin: 15px 0;
   }
 }
 @media (max-width: 500px) {
