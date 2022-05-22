@@ -7,7 +7,7 @@ const Homepage = () => {
     <section className="homepage">
       <div className="overlay">
       <h1>Orem Gitonga</h1>
-      <p>Full Stack Developer</p>
+      <p>Full Stack Developer/ <br /> Blockchain Enthusiast</p>
 
       <ul>
       <li><a href="https://www.linkedin.com/in/orem-gitonga-b37b9319b/" target="_blank" rel="noopenner noreferrer"><FaLinkedin /></a></li>
