@@ -8,6 +8,11 @@ export const Navbar = [
     },
     {
         id: uuidv4(),
+        title: "About",
+        url: "/about"
+    },
+    {
+        id: uuidv4(),
         title: "Projects",
         url: "/projects"
     },

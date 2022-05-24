@@ -5,6 +5,7 @@ import Homepage from "./components/Homepage"
 import Menu from './components/Menu'
 
 // Pages
+import About from "./pages/About"
 import Projects from "./pages/Projects"
 import Contact from "./pages/Contact"
 import Error from "./pages/Error"
@@ -15,6 +16,7 @@ const App = () => {
     <Menu />
     <Routes>
     <Route path="/" element={<Homepage />} exact />
+    <Route path="/about" element={<About />} />
     <Route path="/projects" element={<Projects />} />
     <Route path="/contact" element={<Contact />} />
     <Route path="*" element={<Error />} />
