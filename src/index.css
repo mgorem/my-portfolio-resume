@@ -232,7 +232,7 @@ transform: translate(-50%, -50%);
     grid-template-columns: 200px 1fr; 
   }
   .header.open {
-    height: 3%;
+    height: 34%;
     background-color: var(--background-overlay);
   }
   .header nav ul {
