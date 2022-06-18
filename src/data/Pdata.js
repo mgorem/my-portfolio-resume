@@ -4,7 +4,7 @@ export const Pdata = [
     {
         id: uuidv4(),
         title: "Ecommerce Website",
-        desc: "An Full Stack Ecommerce Website Application using React, Node.js and Mongo DB",
+        desc: "A Full Stack Ecommerce Website Application using React, Node.js and Mongo DB",
         github: "https://github.com/mgorem/ecommerce-react-node-mongo",
         demo: "https://mgs-fineline.co.ke",
         image: "./images/home-part-2-men.jpg"
